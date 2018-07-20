@@ -19,6 +19,6 @@ Both, where the exiting test simply exits
 
 ![](https://thumbs.gfycat.com/HardtofindWhirlwindCoati-size_restricted.gif)
 
-Both, where the exiting test causes the run to hang
+Both, where the exiting test causes the run to hang (having changed only the name of the passing test file)
 
 ![](https://thumbs.gfycat.com/BelovedIdleIguana-size_restricted.gif)
