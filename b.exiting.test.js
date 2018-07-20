@@ -1,6 +1,6 @@
 const subject = require('./subject');
 
-test('sup', () => {
-    const result = subject({ shouldExit: false });
+test('with exit', () => {
+    const result = subject({ shouldExit: true });
     expect(result).toBe('success');
 })
